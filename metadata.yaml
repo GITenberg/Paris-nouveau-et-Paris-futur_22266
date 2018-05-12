@@ -1,0 +1,35 @@
+_repo: Paris-nouveau-et-Paris-futur_22266
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fournel, Victor
+    aliases:
+    - Guerard, Edmond
+    - Fournel, Francois Victor
+    - Guérard, Edmond
+    - Fournel, François Victor
+    birthdate: 1829
+    deathdate: 1894
+    gutenberg_agent_id: '25223'
+    url: http://www.gutenberg.org/2009/agents/25223
+description: ''
+gutenberg_bookshelf:
+- France
+- FR Villes
+gutenberg_issued: '2007-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22266'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'City planning -- France -- Paris'
+- !lcsh 'City planning -- France'
+title: Paris nouveau et Paris futur
+url: http://www.gutenberg.org/ebooks/22266
