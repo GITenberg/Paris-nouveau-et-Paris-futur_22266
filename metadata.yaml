@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '25223'
     url: http://www.gutenberg.org/2009/agents/25223
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22266#Paris-nouveau-et-Paris-futur
 gutenberg_bookshelf:
 - France
 - FR Villes
